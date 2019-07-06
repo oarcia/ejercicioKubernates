@@ -1,0 +1,16 @@
+# SECTION: Custom
+aws/
+*.tar
+.scannerwork
+*.swp
+
+# SECTION: Vagrant
+.vagrant/
+
+# SECTION: Python
+*.log
+*.pot
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
